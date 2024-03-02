@@ -3,4 +3,4 @@
 
   ## video
   -Projeyi  daha net bir şekilde videosu aşağıda
-  <img src="screen.mp4" >
+ ![](screen.mp4)
